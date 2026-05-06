@@ -2,6 +2,8 @@
 
 A payment gateway module for WHMCS 9.x that integrates [Paddle Billing (v2)](https://developer.paddle.com) using Paddle.js v2. Supports full payment lifecycle: checkout, webhooks, and refunds.
 
+<img src="https://github.com/rorry47/paddle_gateways_whmcs/blob/main/screen_paddle.jpg">
+
 ---
 
 ## Features
